@@ -1,4 +1,12 @@
-### Hi there 👋
+Olá, eu sou o Mateus! 👋
+
+<div>
+  <a href="https://github.com/mateusberlitz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusberlitz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=7FCEFF&text_color=ffffff&border_color=404260"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusberlitz&layout=compact&langs_count=7&theme=tokyonight&title_color=7FCEFF&text_color=ffffff&border_color=404260"/>
+</div>
+
+![Snake animation](https://github.com/mateusberlitz/mateusberlitz/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **mateusberlitz/mateusberlitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
