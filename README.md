@@ -6,6 +6,17 @@ Olá, eu sou o Mateus! 👋
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusberlitz&layout=compact&langs_count=7&theme=tokyonight&title_color=7FCEFF&text_color=ffffff&border_color=404260"/>
 </div>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Mateus-Laravel" height="30" width="40" src="https://iconduck.com/icons/27594/laravel">
+  <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mateus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Mateus-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Rafa-yoda" src="https://tenor.com/view/ronaldo-uef-achampions-so-so-perhaps-maybe-gif-5552232">
+</div>
+
 ![Snake animation](https://github.com/mateusberlitz/mateusberlitz/blob/output/github-contribution-grid-snake.svg)
 
 <!--
