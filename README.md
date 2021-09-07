@@ -1,4 +1,4 @@
-Olá, eu sou o Mateus! 👋
+## Olá, eu sou o Mateus! 👋
 
 <div>
   <a href="https://github.com/mateusberlitz">
@@ -8,14 +8,16 @@ Olá, eu sou o Mateus! 👋
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Mateus-Laravel" height="30" width="40" src="https://iconduck.com/icons/27594/laravel">
+  <img align="center" alt="Mateus-Laravel" height="30" width="30" src="https://cdn.discordapp.com/attachments/415479229858185218/884888725597880410/Group.png">
+  <img align="center" alt="Mateus-PHP" height="50" width="50" src="https://cdn.discordapp.com/attachments/647231873323630598/884893958734479390/php_plain_logo_icon_146397.png">
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mateus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mateus-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://tenor.com/view/ronaldo-uef-achampions-so-so-perhaps-maybe-gif-5552232">
+  <img align="right" alt="Mateus-CR7" width="200" src="https://c.tenor.com/mgRmsh7tF2AAAAAC/ronaldo-uef-achampions.gif">
 </div>
+
+##
 
 ![Snake animation](https://github.com/mateusberlitz/mateusberlitz/blob/output/github-contribution-grid-snake.svg)
 
