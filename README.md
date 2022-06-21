@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/mateus-b-799482136/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </div>
 
-![Snake animation](https://github.com/mateusberlitz/mateusberlitz/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/mateusberlitz/mateusberlitz/blob/output/github-contribution-grid-snake.svg) -->
 
 <!--
 **mateusberlitz/mateusberlitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
