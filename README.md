@@ -5,16 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusberlitz&layout=compact&langs_count=7&theme=tokyonight&title_color=7FCEFF&text_color=ffffff&border_color=404260"/>
 </div>
 
-<div style="display: flex"><br>
-  <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Mateus-Laravel" height="30" width="30" src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png">
-  <img align="center" alt="Mateus-PHP" height="50" width="50" src="https://assets.zabbix.com/img/brands/php.svg">
-  <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mateus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
 ##
   
   <div>
